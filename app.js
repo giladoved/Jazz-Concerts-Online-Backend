@@ -9,7 +9,7 @@ mongoUtil.connect();
 app.use( express.static(__dirname + '/../frontend') );
 
 app.get('/featured', (req, res) => {
-	res.send(concerts[0]);
+	res.send(concerts[2]);
 });
 
 app.get('/venues', (req, res) => {
