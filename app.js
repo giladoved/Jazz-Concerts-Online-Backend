@@ -31,6 +31,18 @@ app.get('/concerts', (req, res) => {
 	res.send(concerts);
 });
 
+app.get('/concert', (req, res) => {
+	var id = req.query.id;
+	var concert = concerts.filter(
+      function(c){ return c.id == id }
+  	);
+  	if (concert.length == 0) {
+  		res.status(404).send('Could not find that concert');
+  	} else {
+		res.send(concert[0]);
+	}
+});
+
 // var venues = [
 // 	{
 // 		venue: "Village Vanguard",
