@@ -1,0 +1,73 @@
+{
+	"venues" : [
+		{
+			"venue" : "Cite de la Musique",
+			"description": "Since the inauguration of the Philharmonie in January 2015, the Cite de la musique has formed a new institution, called Cite de la musique-Philharmonie de Paris. This exceptional architectural ensemble, which brings together two major names in architecture - Christian de Portzamparc and Jean Nouvel - houses several concert halls, a museum, a multimedia library and many educational spaces. It is a cultural hub that is unique in the world. Its resident trainings, its guest artists and its innovative artistic project, promotes the appropriation of music by all audiences."
+		}
+	],
+	"concerts": [
+	{
+		"artist": "Robert Glasper Trio",
+		"artists": ["Robert Glasper", "Derick Hodge", "Chris Dave"],
+		"year": "2012",
+		"festival": "Jazz a la Villette Festival",
+		"venue": "Cite de la Musique",
+		"city": "Paris, France",
+		"genre": ["Modern"],
+		"id": "kScYtiy4PEs",
+		"url": "http://www.youtube.com/embed/kScYtiy4PEs?showinfo=0&rel=0"
+	},
+	{
+		"artist": "Snarky Puppy",
+		"artists": ["Michael League", "Robert Searight", "Nate Werth", "Larnell Lewis", "Shaun Martin", "Cory Henry", "Justin Stanton", "Bill Laurance", "Bob Lanzetti", "Chris McQueen", "Mark Lettieri", "Mike Maher", "Chris Bullock", "Jamison Ross"],
+		"year": "2014",
+		"date" : "3-1-2014",
+		"festival": "Jakarta International Java Jazz Festival",
+		"venue": "A2 Hall JIExpo",
+		"city": "Kemayoran, Indonesia",
+		"genre": ["Modern"],
+		"id": "7gu8q_fJeVU",
+		"url": "http://www.youtube.com/embed/7gu8q_fJeVU?showinfo=0&rel=0",
+		"tracklist" : [
+			["0:00", "Strawman (Bring Us the Bright)"],
+			["9:30", "Klezma (Bring Us the Bright)"],
+			["15:55", "Lingus (We Like it Here)"],
+			["27:06", "Kite (We Like it Here)"],
+			["34:00", "Celebrity (Bring Us the Bright)"],
+			["48:06", "Flood (Tell Your Friends)"],
+			["1:02:42", "Young Stuff (groundUp)"]
+		]
+	},
+	{
+		"artist": "Weather Report",
+		"artists": ["Wayne Shorter", "Joe Zawinul", "Jaco Pastorius", "Peter Erskine", "Robert Thomas, Jr."],
+		"year": "1982",
+		"city": "Offenbach, Germany",
+		"genre": ["Fusion"],
+		"id": "ehXUyW4-hA8",
+		"url": "http://www.youtube.com/embed/ehXUyW4-hA8?showinfo=0&rel=0",
+		"tracklist": [
+			["00:00", "Black Market"],
+			["10:12", "Joe's intro to Scarlet Woman / Liftoff"],
+			["13:27", "Scarlet Woman"],
+			["19:37", "Young and Fine"],
+			["26:21", "The Pursuit of the Woman with the Feathered Hat"],
+			["33:11", "A Remark You Made"],
+			["40:15", "River People"],
+			["48:08", "Thanks for the Memories"],
+			["51:55", "Dolores / Portrait of Tracy / Third Stone from the Sun"],
+			["1:01:45", "Mr. Gone"],
+			["1:10:24", "In a Silent Way"],
+			["1:12:37", "Waterfall"],
+			["1:14:27", "Teen Town"],
+			["1:22:37", "I Got it Bad and That Ain't Good"],
+			["1:26:00", "The Midnight Sun Will Never Set On You"],
+			["1:31:26", "Birdland"],
+			["1:38:15", "Introductions"],
+			["1:40:02", "Fred & Jack"],
+			["1:47:32", "Elegant People"],
+			["1:55:28", "Badia"]
+		]
+	}
+	]
+}

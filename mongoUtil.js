@@ -18,5 +18,10 @@ module.exports = {
 
 	venues() {
 		return _db.collection('venues');
+	},
+
+	concerts() {
+		return _db.collection('concerts');
 	}
+
 };
